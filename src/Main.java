@@ -3,7 +3,7 @@
 public class Main {
     public static void main(String[] args) {
 
-
+// just a comment
                 int num = 20, sum = 0;
 
                 for(int i = 1; i <= num; ++i)
